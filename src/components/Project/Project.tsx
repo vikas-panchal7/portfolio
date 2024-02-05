@@ -276,7 +276,7 @@ export function Project() {
           </div>
         </ScrollAnimation> */}
 
-        {/* <ScrollAnimation animateIn="flipInX">
+        <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <svg
@@ -304,22 +304,19 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Mayatmaj - Film Production Site</h3>
+              <h3>Sport Gear Site</h3>
               <p>
-                This agency website promotes post production, virtual
-                production, and video marketing services. It shows previous
-                client work and reviews to get more business. If you need help
-                with production, this website can give you information and
-                connect you with the right people.
+                The online platform specializes in personalized sportswear, specifically customizable T-shirts. This website provides users with the ability to tailor their sport gear, focusing particularly on T-shirts.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Wordpress</li>
+                <li>React Js</li>
+                <li>Next Js</li>
               </ul>
             </footer>
           </div>
-        </ScrollAnimation> */}
+        </ScrollAnimation>
       </div>
     </Container>
   );
