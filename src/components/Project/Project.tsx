@@ -295,7 +295,7 @@ export function Project() {
               </svg>
               <div className="project-links">
                 <a
-                  href="https://mayatmaj.com/"
+                  href="https://sportsgearswag.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
