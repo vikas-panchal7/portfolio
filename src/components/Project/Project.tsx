@@ -193,9 +193,9 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Netowrked </h3>
+              <h3>Networked </h3>
               <p>
-                Netowrked.co is like linked in platform in US and UK . networked
+                Networked.co is like linked in platform in US and UK . networked
                 enables organizations to create highly engaged online
                 communities and we make it easy for people to experience those
                 communities in one place. This helps both the organization and
